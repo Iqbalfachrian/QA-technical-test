@@ -21,6 +21,10 @@ This project uses Katalon Studio to build and run a test suite for a WebService.
 
 If you'd like to contribute to this project, please submit a pull request on GitHub.
 
+### Below is test log report
+![test report](https://github.com/Iqbalfachrian/QA-technical-test/assets/101652940/8eed3dba-69ce-4801-a6dd-2819ebecce10)
+
+
 ## Licence
 
 Write the appropriate license for your project here.
