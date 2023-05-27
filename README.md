@@ -28,3 +28,5 @@ If you'd like to contribute to this project, please submit a pull request on Git
 ## Licence
 
 Write the appropriate license for your project here.
+
+### Thank you
